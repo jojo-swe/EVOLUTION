@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/assets/logo.svg" alt="EVOLUTION logo" width="128"></p>
+
 # EVOLUTION
 
 EVOLUTION is a real-time demo that puts 1993 and 2026 in the same frame: every effect first appears as
